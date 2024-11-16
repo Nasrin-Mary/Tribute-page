@@ -1,0 +1,54 @@
+body{
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align:center;
+    margin:0;
+    font-size:12px;
+    line-height: 1.5;
+    background:#eee;
+    
+   }
+   #title{
+     font-size:2rem;
+     margin-bottom:20;
+   }
+   #img-caption{
+     font-size:0.8rem;
+     margin:0;
+   }
+   #image{
+   
+     filter: grayscale(100%);
+      max-width:100%;
+      display:block;
+      margin:20px auto;
+   
+   }
+   figure{
+    display: block;
+    justify-content: center;
+    margin-top: 26px;
+ 
+   }
+   ul {
+     list-style-position: inside; 
+     padding: 10 50 10 50 ; 
+     text-align: left;
+   }
+   li{
+     line-height:1.5em;
+     padding-bottom:10px;
+   }
+   .headline {
+       margin: 30px 0;
+       text-align: center;
+   }
+   .quotes{
+     margin:50px auto;
+     text-align: center;
+     padding:0 60px;
+  
+   }
+   #tribute-info{
+    margin-bottom:50px;
+   
+   }
